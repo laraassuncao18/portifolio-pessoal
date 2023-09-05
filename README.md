@@ -6,6 +6,7 @@
 [Autores](#autores)  
 
 # 🚀 projeto portifolio para escrita do README.
+![imege](img/capa.png)
 
 ## 📌 Descrição
 
