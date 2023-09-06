@@ -9,11 +9,16 @@
 ![imege](img/capa.png)
 
 ## 📌 Descrição
+Descrição do projeto portifolio escrita do README,para personalizar a pagina no vs code do jeito que preferir.
 
 ## ⚙️ Funcionalidades
+A funcionalidade da pagina pode ser personalizada,com fotos,palavras ,cores e tamanhos.
 
 ### ❤️ Teclonogias utilizadas
+vs code,github,captura de tela,css,README,html,google,pasta,teams
 
 ## 📄 Fontes consultadas
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## 🍺 Autores
+lara:https://github.com/laraassuncao18/portifolio-pessoal
