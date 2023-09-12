@@ -9,7 +9,7 @@
 ![imege](img/capa.png)
 
 ## 📌 Descrição
-Descrição do projeto portifolio escrita do README, Projeto desenvolvido na aula programação Web 1 ,para personalizar a pagina no vs code do jeito em que preferir, para fazer: ou aprender um README o link do alura : https://www.alura.com.br/artigos/escrever-bom-readme é uma boa ajuda para iniciantes, como diz o professor leo:https://github.com/LeonardoRochaMarista.
+Descrição do projeto portifolio escrita do README, Projeto desenvolvido na aula programação Web 1 ,para personalizar a pagina no vs code do jeito em que preferir, para fazer: ou aprender um README o link do [alura](https://www.alura.com.br/artigos/escrever-bom-readme) é uma boa ajuda para iniciantes, como diz o professor [leo](https://github.com/LeonardoRochaMarista)
 
 ## ⚙️ Funcionalidades
 A funcionalidade da pagina pode ser personalizada, em meio de codigos pelo vs code e pelo github ,com fotos,palavras ,cores e tamanhos podera conferir os resultados no github.
