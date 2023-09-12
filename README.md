@@ -32,14 +32,14 @@ A funcionalidade da pagina pode ser personalizada, em meio de codigos pelo vs co
 
  
 
-* [Bootstrapp] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
+* [Bootstrapp](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
 
  
 
-* [lohhans] (https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
 
 ## 🍺 Autores
-* lara: https://github.com/laraassuncao18/portifolio-pessoal
+* [lara]https://github.com/laraassuncao18/portifolio-pessoal
 
-* orientador:https://github.com/LeonardoRochaMarista
+* [orientador]https://github.com/LeonardoRochaMarista
