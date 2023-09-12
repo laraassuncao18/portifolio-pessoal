@@ -29,17 +29,11 @@ A funcionalidade da pagina pode ser personalizada, em meio de codigos pelo vs co
 ## 📄 Fontes consultadas
 
 * [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível  
-
- 
-
-* [Bootstrapp] (https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
-
- 
-
-* [lohhans] (https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+* [Bootstrapp](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
 
 ## 🍺 Autores
-* lara: https://github.com/laraassuncao18/portifolio-pessoal
+* Lara: https://github.com/laraassuncao18/portifolio-pessoal
 
 * orientador:https://github.com/LeonardoRochaMarista
