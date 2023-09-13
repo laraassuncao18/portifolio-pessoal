@@ -43,8 +43,8 @@ A funcionalidade da pagina pode ser personalizada, em meio de codigos pelo vs co
 * [lara]https://github.com/laraassuncao18/portifolio-pessoal
 
 * [orientador]https://github.com/LeonardoRochaMarista
-=======
-* Lara: https://github.com/laraassuncao18/portifolio-pessoal
 
-* orientador:https://github.com/LeonardoRochaMarista
+* [Lara]https://github.com/laraassuncao18/portifolio-pessoal
+
+* [orientador]https://github.com/LeonardoRochaMarista
 
