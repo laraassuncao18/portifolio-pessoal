@@ -28,10 +28,7 @@ A funcionalidade da pagina pode ser personalizada, em meio de codigos pelo vs co
 
 ## 📄 Fontes consultadas
 
-* [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível  
-
-
-* [Bootstrapp](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
+* [Alura](alura.com.br/artigos/escrever-bom-readme#referencias-de-readme) - Como escrever um README incrível   
 
 * [Bootstrapp](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
 
@@ -44,7 +41,4 @@ A funcionalidade da pagina pode ser personalizada, em meio de codigos pelo vs co
 
 * [orientador]https://github.com/LeonardoRochaMarista
 
-* [Lara]https://github.com/laraassuncao18/portifolio-pessoal
-
-* [orientador]https://github.com/LeonardoRochaMarista
 
